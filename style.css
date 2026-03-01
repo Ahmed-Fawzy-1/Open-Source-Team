@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contact div{
+    margin: 10px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
